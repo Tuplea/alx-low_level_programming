@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stdout.h>
+#include <stdio.h>
 
 /**
  * main - Program assign a random number to var
