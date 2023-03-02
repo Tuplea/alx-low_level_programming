@@ -11,9 +11,9 @@ int main(void)
   /*
    * write your line of code here...
    * Remember:
-   * main - you are not allowed to use a
+   * - you are not allowed to use a
    * - you are not allowed to modify p
-   * Return: Always 0.
+   * - only one statement
    * - you are not allowed to code anything else than this line of code
    */
 	*(p + 5) = 98;
